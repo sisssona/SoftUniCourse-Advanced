@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\refint\8. Traffic Jam.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\ref\8. Traffic Jam.dll
