@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\refint\02. Line Numbers.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\02. Line Numbers\obj\Debug\net6.0\ref\02. Line Numbers.dll

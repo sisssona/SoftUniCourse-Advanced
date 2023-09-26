@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\refint\7. Pascal Triangle.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\net6.0\ref\7. Pascal Triangle.dll

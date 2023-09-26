@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\bin\Debug\net6.0\03. Word Count.exe
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\bin\Debug\net6.0\03. Word Count.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\bin\Debug\net6.0\03. Word Count.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\bin\Debug\net6.0\03. Word Count.dll
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\bin\Debug\net6.0\03. Word Count.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\03. Word Count.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\03. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\03. Word Count.dll
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\refint\03. Word Count.dll
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\03. Word Count.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\03. Word Count.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\03. Word Count\obj\Debug\net6.0\ref\03. Word Count.dll

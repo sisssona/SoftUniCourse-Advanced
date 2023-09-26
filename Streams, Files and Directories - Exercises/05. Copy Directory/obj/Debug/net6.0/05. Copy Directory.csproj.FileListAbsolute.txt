@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\refint\05. Copy Directory.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\net6.0\ref\05. Copy Directory.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.exe
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.dll
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.dll
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\refint\05. Extract Special Bytes.dll
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\05. Extract Special Bytes\obj\Debug\net6.0\ref\05. Extract Special Bytes.dll

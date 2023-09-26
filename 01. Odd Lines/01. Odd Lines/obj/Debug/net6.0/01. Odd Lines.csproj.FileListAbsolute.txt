@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.exe
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.dll
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.dll
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\refint\01. Odd Lines.dll
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\01. Odd Lines\01. Odd Lines\obj\Debug\net6.0\ref\01. Odd Lines.dll

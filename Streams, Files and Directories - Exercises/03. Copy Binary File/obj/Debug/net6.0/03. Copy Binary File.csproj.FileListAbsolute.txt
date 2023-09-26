@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\refint\03. Copy Binary File.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\ref\03. Copy Binary File.dll
