@@ -15,17 +15,22 @@ namespace ExtractSpecialBytes
 
         public static void ExtractBytesFromBinaryFile(string binaryFilePath, string bytesFilePath, string outputPath)
         {
-            StreamReader binaryFile = new StreamReader(binaryFilePath);
-           
-            byte[] encodedBytes = Encoding.Unicode.GetBytes(binaryFile);
-            using (StreamWriter writer = new StreamWriter(outputPath))
-            {
-                while ()
-                {
-                    writer.WriteLine(Encoding.Unicode.GetBytes(binaryFile));
-                }
+            using StreamReader reader = new StreamReader(bytesFilePath);
+            byte[] fileBytes = File.ReadAllBytes(binaryFilePath);
+            var bytesList = new List<string>();
+            StringBuilder sb = new StringBuilder();
 
+            while (!reader.EndOfStream)
+            {
+               bytesList.Add(reader.ReadLine()); 
             }
+            foreach (var bytes in fileBytes)
+            {
+                sb.AppendLine(bytes.ToString());
+            }
+            using StreamWriter writer = new System.IO.StreamWriter(outputPath);
+            writer.WriteLine(sb.ToString().Trim());
+
         }
     }
 }

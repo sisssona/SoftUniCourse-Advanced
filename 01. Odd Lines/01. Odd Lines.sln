@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Odd Lines", "01. Odd Lines\01. Odd Lines.csproj", "{BA9A1E7F-1F37-4F63-B5AB-53E5C61715D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Odd Lines", "01. Odd Lines\01. Odd Lines.csproj", "{BA9A1E7F-1F37-4F63-B5AB-53E5C61715D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{EB516466-3069-45E7-B84D-18E7EF308252}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{EB516466-3069-45E7-B84D-18E7EF308252}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{DE85EC80-AC2E-4E35-A872-B57865A5F66C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{DE85EC80-AC2E-4E35-A872-B57865A5F66C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{904C2F0A-5F87-45FE-99F9-9212B1A9C280}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{904C2F0A-5F87-45FE-99F9-9212B1A9C280}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{905A28DF-BCB6-4C5F-905C-F269A51EAF76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{905A28DF-BCB6-4C5F-905C-F269A51EAF76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Split, Merge Binary Files", "06. Split, Merge Binary Files\06. Split, Merge Binary Files.csproj", "{DB6546EF-EAB8-4253-B0B7-284BBB712564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Folder Size", "07. Folder Size\07. Folder Size.csproj", "{7FCA54E6-0ACD-457D-8AD2-F9D96372262D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{905A28DF-BCB6-4C5F-905C-F269A51EAF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{905A28DF-BCB6-4C5F-905C-F269A51EAF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{905A28DF-BCB6-4C5F-905C-F269A51EAF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6546EF-EAB8-4253-B0B7-284BBB712564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6546EF-EAB8-4253-B0B7-284BBB712564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6546EF-EAB8-4253-B0B7-284BBB712564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6546EF-EAB8-4253-B0B7-284BBB712564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCA54E6-0ACD-457D-8AD2-F9D96372262D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCA54E6-0ACD-457D-8AD2-F9D96372262D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCA54E6-0ACD-457D-8AD2-F9D96372262D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCA54E6-0ACD-457D-8AD2-F9D96372262D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
