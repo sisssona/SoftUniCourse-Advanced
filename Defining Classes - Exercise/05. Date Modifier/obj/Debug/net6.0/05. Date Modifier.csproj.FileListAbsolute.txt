@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\refint\05. Date Modifier.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\ref\05. Date Modifier.dll

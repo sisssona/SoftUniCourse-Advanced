@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\refint\02. Knights of Honor.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\ref\02. Knights of Honor.dll
