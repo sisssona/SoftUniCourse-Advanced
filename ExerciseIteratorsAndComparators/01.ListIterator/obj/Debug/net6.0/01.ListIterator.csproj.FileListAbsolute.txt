@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\01.ListIterator.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\01.ListIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\01.ListIterator.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\01.ListIterator.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\01.ListIterator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\bin\Debug\net6.0\01.ListIterator.exe
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\bin\Debug\net6.0\01.ListIterator.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\bin\Debug\net6.0\01.ListIterator.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\bin\Debug\net6.0\01.ListIterator.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\bin\Debug\net6.0\01.ListIterator.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\01.ListIterator.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\refint\01.ListIterator.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\01.ListIterator.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\01.ListIterator.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\01.ListIterator\obj\Debug\net6.0\ref\01.ListIterator.dll

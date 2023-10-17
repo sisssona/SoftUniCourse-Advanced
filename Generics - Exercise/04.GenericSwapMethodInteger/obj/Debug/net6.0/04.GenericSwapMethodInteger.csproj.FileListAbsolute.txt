@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\bin\Debug\net6.0\04.GenericSwapMethodInteger.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\refint\04.GenericSwapMethodInteger.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\04.GenericSwapMethodInteger.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\04.GenericSwapMethodInteger\obj\Debug\net6.0\ref\04.GenericSwapMethodInteger.dll

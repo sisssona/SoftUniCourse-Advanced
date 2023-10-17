@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\08.CustomDoublyLinkList.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\08.CustomDoublyLinkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\08.CustomDoublyLinkList.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\08.CustomDoublyLinkList.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\08.CustomDoublyLinkList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\bin\Debug\net6.0\08.CustomDoublyLinkList.exe
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\bin\Debug\net6.0\08.CustomDoublyLinkList.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\bin\Debug\net6.0\08.CustomDoublyLinkList.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\bin\Debug\net6.0\08.CustomDoublyLinkList.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\bin\Debug\net6.0\08.CustomDoublyLinkList.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\08.CustomDoublyLinkList.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\refint\08.CustomDoublyLinkList.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\08.CustomDoublyLinkList.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\08.CustomDoublyLinkList.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\08.CustomDoublyLinkList\obj\Debug\net6.0\ref\08.CustomDoublyLinkList.dll

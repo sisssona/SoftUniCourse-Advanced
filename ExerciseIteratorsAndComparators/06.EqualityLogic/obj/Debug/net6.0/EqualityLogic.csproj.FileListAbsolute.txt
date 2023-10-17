@@ -1,0 +1,5 @@
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\06.EqualityLogic\obj\Debug\net6.0\EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\06.EqualityLogic\obj\Debug\net6.0\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\06.EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\06.EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\06.EqualityLogic\obj\Debug\net6.0\EqualityLogic.csproj.CoreCompileInputs.cache

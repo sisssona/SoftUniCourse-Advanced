@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\bin\Debug\net6.0\03.Stack.exe
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\bin\Debug\net6.0\03.Stack.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\bin\Debug\net6.0\03.Stack.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\bin\Debug\net6.0\03.Stack.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\bin\Debug\net6.0\03.Stack.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\03.Stack.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\03.Stack.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\03.Stack.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\03.Stack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\03.Stack.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\refint\03.Stack.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\03.Stack.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\03.Stack.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExerciseIteratorsAndComparators\03. Stack\obj\Debug\net6.0\ref\03.Stack.dll

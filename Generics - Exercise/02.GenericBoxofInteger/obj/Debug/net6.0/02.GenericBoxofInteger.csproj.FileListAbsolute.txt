@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\bin\Debug\net6.0\02.GenericBoxofInteger.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\refint\02.GenericBoxofInteger.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\02.GenericBoxofInteger.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Generics - Exercise\02.GenericBoxofInteger\obj\Debug\net6.0\ref\02.GenericBoxofInteger.dll
