@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.exe
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\refint\01.MonsterExtermination.dll
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\ExamPreparation2\01.MonsterExtermination\obj\Debug\net6.0\ref\01.MonsterExtermination.dll

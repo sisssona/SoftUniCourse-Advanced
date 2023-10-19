@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\bin\Debug\net6.0\Algorythms.exe
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\bin\Debug\net6.0\Algorythms.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\bin\Debug\net6.0\Algorythms.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\bin\Debug\net6.0\Algorythms.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\bin\Debug\net6.0\Algorythms.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\Algorythms.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\Algorythms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\Algorythms.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\Algorythms.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\Algorythms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\Algorythms.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\refint\Algorythms.dll
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\Algorythms.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\Algorythms.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\Algorythms\Algorythms\obj\Debug\net6.0\ref\Algorythms.dll

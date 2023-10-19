@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.exe
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.dll
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.dll
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\refint\02. Recursive Factorial.dll
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\BasicAlgorithms\02. Recursive Factorial\obj\Debug\net6.0\ref\02. Recursive Factorial.dll
