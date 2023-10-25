@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\bin\Debug\net6.0\01.OffroadChallenge.exe
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\bin\Debug\net6.0\01.OffroadChallenge.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\bin\Debug\net6.0\01.OffroadChallenge.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\bin\Debug\net6.0\01.OffroadChallenge.dll
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\bin\Debug\net6.0\01.OffroadChallenge.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\01.OffroadChallenge.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\01.OffroadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\01.OffroadChallenge.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\01.OffroadChallenge.dll
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\refint\01.OffroadChallenge.dll
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\01.OffroadChallenge.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\01.OffroadChallenge.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task1\obj\Debug\net6.0\ref\01.OffroadChallenge.dll

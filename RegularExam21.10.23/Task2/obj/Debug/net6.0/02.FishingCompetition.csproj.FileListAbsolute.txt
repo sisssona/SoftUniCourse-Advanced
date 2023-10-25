@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\bin\Debug\net6.0\02.FishingCompetition.exe
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\bin\Debug\net6.0\02.FishingCompetition.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\bin\Debug\net6.0\02.FishingCompetition.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\bin\Debug\net6.0\02.FishingCompetition.dll
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\bin\Debug\net6.0\02.FishingCompetition.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\02.FishingCompetition.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\02.FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\02.FishingCompetition.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\02.FishingCompetition.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\02.FishingCompetition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\02.FishingCompetition.dll
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\refint\02.FishingCompetition.dll
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\02.FishingCompetition.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\02.FishingCompetition.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RegularExam21.10.23\Task2\obj\Debug\net6.0\ref\02.FishingCompetition.dll
