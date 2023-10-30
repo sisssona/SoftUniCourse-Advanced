@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.exe
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.deps.json
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.dll
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\bin\Debug\net6.0\02.Help-A-Mole.pdb
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.dll
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\refint\02.Help-A-Mole.dll
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.pdb
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\02.Help-A-Mole.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-OOP\AdvancedRetakeExam–18August2022\02.Help-A-Mole\obj\Debug\net6.0\ref\02.Help-A-Mole.dll
