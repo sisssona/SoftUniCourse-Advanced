@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.MealPlan", "1.MealPlan\1.MealPlan.csproj", "{6BA1FAB8-7825-4E4F-BFBE-A7CAD96BE4C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.TruffleHunter", "2.TruffleHunter\2.TruffleHunter.csproj", "{CAA5B009-2A8E-428B-A81D-BAE974ADB75F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA1FAB8-7825-4E4F-BFBE-A7CAD96BE4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA1FAB8-7825-4E4F-BFBE-A7CAD96BE4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA1FAB8-7825-4E4F-BFBE-A7CAD96BE4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA1FAB8-7825-4E4F-BFBE-A7CAD96BE4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA5B009-2A8E-428B-A81D-BAE974ADB75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA5B009-2A8E-428B-A81D-BAE974ADB75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA5B009-2A8E-428B-A81D-BAE974ADB75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA5B009-2A8E-428B-A81D-BAE974ADB75F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1194F0F-1B64-4ADB-9FD0-A8AD4CC196CD}
+	EndGlobalSection
+EndGlobal

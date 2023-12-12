@@ -1,0 +1,14 @@
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\bin\Debug\netcoreapp3.1\1.MealPlan.exe
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\bin\Debug\netcoreapp3.1\1.MealPlan.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\bin\Debug\netcoreapp3.1\1.MealPlan.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\bin\Debug\netcoreapp3.1\1.MealPlan.runtimeconfig.dev.json
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\bin\Debug\netcoreapp3.1\1.MealPlan.dll
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\bin\Debug\netcoreapp3.1\1.MealPlan.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\obj\Debug\netcoreapp3.1\1.MealPlan.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\obj\Debug\netcoreapp3.1\1.MealPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\obj\Debug\netcoreapp3.1\1.MealPlan.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\obj\Debug\netcoreapp3.1\1.MealPlan.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\obj\Debug\netcoreapp3.1\1.MealPlan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\obj\Debug\netcoreapp3.1\1.MealPlan.dll
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\obj\Debug\netcoreapp3.1\1.MealPlan.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRetakeExam-13April2022\AdvancedRetakeExam-13April2022\1.MealPlan\obj\Debug\netcoreapp3.1\1.MealPlan.genruntimeconfig.cache

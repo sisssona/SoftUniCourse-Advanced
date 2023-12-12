@@ -1,0 +1,14 @@
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\bin\Debug\netcoreapp3.1\Renovators.exe
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\bin\Debug\netcoreapp3.1\Renovators.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\bin\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\bin\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\obj\Debug\netcoreapp3.1\Renovators.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\obj\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\obj\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\C#AdvancedRegularExam-25June2022-3dTaskRenovator\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache

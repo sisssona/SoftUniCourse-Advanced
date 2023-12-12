@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\bin\Debug\net6.0\02. Wall Destroyer.exe
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\bin\Debug\net6.0\02. Wall Destroyer.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\bin\Debug\net6.0\02. Wall Destroyer.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\bin\Debug\net6.0\02. Wall Destroyer.dll
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\bin\Debug\net6.0\02. Wall Destroyer.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\02. Wall Destroyer.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\02. Wall Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\02. Wall Destroyer.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\02. Wall Destroyer.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\02. Wall Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\02. Wall Destroyer.dll
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\refint\02. Wall Destroyer.dll
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\02. Wall Destroyer.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\02. Wall Destroyer.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\AdvancedRegularExam-25June2022\02. Wall Destroyer\obj\Debug\net6.0\ref\02. Wall Destroyer.dll
