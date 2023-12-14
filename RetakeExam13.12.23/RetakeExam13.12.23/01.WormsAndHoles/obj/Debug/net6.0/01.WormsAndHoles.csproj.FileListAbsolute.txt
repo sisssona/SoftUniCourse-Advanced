@@ -1,0 +1,15 @@
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.exe
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.deps.json
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.runtimeconfig.json
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.dll
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\bin\Debug\net6.0\01.WormsAndHoles.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.csproj.AssemblyReference.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.AssemblyInfoInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.AssemblyInfo.cs
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.dll
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\refint\01.WormsAndHoles.dll
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.pdb
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\01.WormsAndHoles.genruntimeconfig.cache
+C:\Users\User\source\SoftUniCourse-Advanced\RetakeExam13.12.23\RetakeExam13.12.23\01.WormsAndHoles\obj\Debug\net6.0\ref\01.WormsAndHoles.dll
